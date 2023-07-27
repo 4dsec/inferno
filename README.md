@@ -10,4 +10,4 @@ The dataset is a .h5 file containing both the feature vector and metadata as a s
 Link to dataset(s): https://drive.google.com/drive/folders/1pNU4jP7t7UP2_itPZpBxMwGB16t5n5gg?usp=sharing
 
 ## Request access to the Rapidrift framework and the original malware samples
-If you are interested in using the framework demonstrated in the study and/or would like to access the original malware samples for this dataset; kindly drop an email to 4thdsec@gmail.com using your work/academic institution email.
+If you are interested in using the framework demonstrated in the study and/or would like to access the original malware samples for this dataset; kindly drop a message to 4thdsec@gmail.com using your work/academic institution email.
