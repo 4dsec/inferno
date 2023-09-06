@@ -2,7 +2,7 @@
 ## Custom malware dataset built using the Detect-Them-All project by ElementalX (used in Rapidrift study)
 https://github.com/subhajeet/Detect-Them-All
 
-The dataset is a .h5 file containing both the feature vector and metadata as a single Dataframe. A sample .ipynb file to access the dataset has been included in this repo.
+The dataset is a .h5 file containing both the feature vector and metadata as a single Dataframe which can be loaded using pandas (key='xy').
 
 ## inferno.h5 contains 
 ~1.4k samples (inclusive of malicious and benign)
